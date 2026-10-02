@@ -2,8 +2,8 @@
 <h3 align="center">🇹🇷 Software Developer · ML for Sensor Data · Computer Vision</h3>
 
 <p align="center">
-  Information Systems Engineering student at <b>Atılım University</b> and <b>Machine Learning Intern at Argate</b>.<br>
-  I build end-to-end systems: from IoT sensor monitoring and anomaly detection in production
+  Information Systems Engineering student at <b>Atılım University</b>.<br>
+  I build end-to-end systems: from IoT sensor monitoring and anomaly detection
   to computer vision for autonomous underwater vehicles.
 </p>
 
@@ -18,12 +18,12 @@
 
 ### 🚀 Highlights
 
-**📡 SAIS – IoT Sensor Monitoring & Anomaly Detection** · *Argate*
-Built and deployed an end-to-end sensor monitoring system running in production:
+**📡 IoT Sensor Monitoring & Anomaly Detection**
+Built and deployed an end-to-end sensor monitoring system:
 **77 sensors**, **8.1M+ rows** of telemetry, statistical anomaly detection and a forecasting model reaching **R² = 0.88**.
 `Python` `Docker` `Anomaly Detection` `Time Series`
 
-**🌊 Autonomous Underwater Vehicle (Teknofest)** · *JupiterOcean*
+**🌊 Autonomous Underwater Vehicle (Teknofest)**
 Developed YOLOv8-based underwater object detection and the vehicle's search/navigation control software.
 → [Atlantis Search AUV Controller](https://github.com/TeomanV/Atlantis-Search-AUV-Controller) · [AUV Navigator](https://github.com/TeomanV/Auv-Navigator)
 `Python` `YOLOv8` `Computer Vision`
@@ -44,7 +44,7 @@ A simulator that translates assembly into machine language and executes it step 
 
 ### 🔭 Currently
 
-- 🧠 Working as a **Machine Learning Intern at Argate** on sensor data and anomaly detection
+- 🧠 Working on **sensor data analysis** and **anomaly detection** projects
 - 🎯 Interested in **ML for sensor data**, **anomaly detection** and **intelligent robotic systems**
 - 🌍 Erasmus+ exchange alumnus · Universitatea Politehnica Timișoara
 
