@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Teoman Veske</h1>
-<h3 align="center">🇹🇷 Software Developer · Autonomous Underwater Vehicles · Data & ML</h3>
+<h3 align="center">🇹🇷 Software Developer · ML for Sensor Data · Computer Vision</h3>
 
 <p align="center">
-  I build software that ranges from autonomous underwater vehicle (AUV) control and navigation
-  to interactive frontends and data analysis projects.
+  Information Systems Engineering student at <b>Atılım University</b> and <b>Machine Learning Intern at Argate</b>.<br>
+  I build end-to-end systems: from IoT sensor monitoring and anomaly detection in production
+  to computer vision for autonomous underwater vehicles.
 </p>
 
 <p align="center">
@@ -15,65 +16,56 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlights
 
-<!-- Her projenin açıklamasını kendi bilgilerinle güncelle -->
+**📡 SAIS – IoT Sensor Monitoring & Anomaly Detection** · *Argate*
+Built and deployed an end-to-end sensor monitoring system running in production:
+**77 sensors**, **8.1M+ rows** of telemetry, statistical anomaly detection and a forecasting model reaching **R² = 0.88**.
+`Python` `Docker` `Anomaly Detection` `Time Series`
 
-| Project | Description | Stack |
-|---|---|---|
-| [🌊 Atlantis Search AUV Controller](https://github.com/TeomanV/Atlantis-Search-AUV-Controller) | Control software for an autonomous underwater vehicle's search missions. | Python |
-| [🧭 AUV Navigator](https://github.com/TeomanV/Auv-Navigator) | Navigation module for an autonomous underwater vehicle. | Python |
-| [⚙️ Hekate](https://github.com/TeamHekate/Hekate) | Team project developed with TeamHekate. | C# |
-| [🎓 AtilimGPA](https://github.com/cemalertas/AtilimGPA) | GPA calculator app for Atılım University students. | Dart / Flutter |
+**🌊 Autonomous Underwater Vehicle (Teknofest)** · *JupiterOcean*
+Developed YOLOv8-based underwater object detection and the vehicle's search/navigation control software.
+→ [Atlantis Search AUV Controller](https://github.com/TeomanV/Atlantis-Search-AUV-Controller) · [AUV Navigator](https://github.com/TeomanV/Auv-Navigator)
+`Python` `YOLOv8` `Computer Vision`
+
+**⚙️ HEKATE – Assembly to Machine Code Simulator** · *Graduation Project*
+A simulator that translates assembly into machine language and executes it step by step.
+→ [TeamHekate/Hekate](https://github.com/TeamHekate/Hekate)
+`C#` `.NET`
+
+**🎓 AtilimGPA** – GPA calculator app for Atılım University students.
+→ [cemalertas/AtilimGPA](https://github.com/cemalertas/AtilimGPA)
+`Dart` `Flutter`
+
+**🏠 House Price Prediction** – Data analysis and regression modeling.
+`Python` `scikit-learn` `KNIME`
 
 ---
 
 ### 🔭 Currently
 
-- 🌊 Developing control and navigation software for **autonomous underwater vehicles**
-- 📊 Working on **data analysis projects** on Kaggle
-- 🧠 Sharpening my skills in **Machine Learning** and **Frontend Development**
+- 🧠 Working as a **Machine Learning Intern at Argate** on sensor data and anomaly detection
+- 🎯 Interested in **ML for sensor data**, **anomaly detection** and **intelligent robotic systems**
+- 🌍 Erasmus+ exchange alumnus · Universitatea Politehnica Timișoara
 
 ---
 
 ### 🛠️ Languages & Tools
 
-**Languages**
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" title=".NET" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" title="Dart" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" title=".NET" />
-</p>
-
-**Data & ML**
-
-<!-- Kullanmadığın araçları sil, kullandıklarını ekle -->
-<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" title="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />
-</p>
-
-**Tools**
-
-<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
 </p>
 
 ---
